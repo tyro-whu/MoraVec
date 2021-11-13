@@ -1,0 +1,20 @@
+﻿  Feature.cpp
+D:\program-c\Feature\Feature.cpp(37,9): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(50,68): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(52,68): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(54,80): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(56,80): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(59,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(61,9): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(92,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\program-c\Feature\Feature.cpp(134,15): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\program-c\Feature\Feature.cpp(135,15): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  Feature.vcxproj -> D:\program-c\Feature\x64\Debug\Feature.exe
